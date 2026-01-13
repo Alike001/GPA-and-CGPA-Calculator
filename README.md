@@ -1,11 +1,11 @@
-GPA & CGPA Calculator (JavaScript)
+# GPA & CGPA Calculator (JavaScript)
 
 A simple GPA and CGPA calculator built with JavaScript.
 
 This project was built to practice JavaScript fundamentals such as DOM manipulation, data storage using arrays, and real-world logic implementation.
 
 
-Features
+## Features
 
 - Add courses with course code, unit, and score
 - Automatic grade and grade point calculation
@@ -17,7 +17,7 @@ Features
 - Reset all data
 
 
-How GPA & CGPA Are Calculated
+## How GPA & CGPA Are Calculated
 
 - Grade Point = Course Unit × Grade Point Value
 - GPA = Total Points ÷ Total Units
@@ -25,7 +25,7 @@ How GPA & CGPA Are Calculated
 
 
 
-Technologies Used
+## Technologies Used
 
 - HTML
 - CSS
